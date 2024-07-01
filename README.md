@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine learning, Deep learning, Mlops**
 
-- 📫 How to reach me **andrewsong93@gmail.com**
+- 📫 How to reach me **xiaolong.song93@gmail.com**
 
 - ⚡ Fun fact **Life-long eater**
 
