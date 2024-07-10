@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xiaolong Song</h1>
-<h3 align="center">A passionate Stats&Data science students living in Belgium</h3>
+<h3 align="center">A passionate Stats&Data science student living in Belgium</h3>
 
 - 🌱 I’m currently learning **Machine learning, Deep learning, Mlops**
 
