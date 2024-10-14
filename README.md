@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **xiaolong.song93@gmail.com**
 
-- ⚡ Fun fact: dream job ----> **dog walker**
+- ⚡ Fun fact: My dream job is to be a developer and a dog walker!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
