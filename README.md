@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xiaolong Song</h1>
-<h3 align="center">A passionate student with a strong interest in **Data Science, Computer Science, and Web Development**, currently based in **Belgium**.</h3>  
+<h3 align="center">A passionate student with a strong interest in **Data Science, Computer Science, and Web Development**, currently based in ** Belgium **.</h3>  
 🤖 Continuously expanding my knowledge in **Machine Learning, Deep Learning, MLOps, and actively exploring CS topics**. <br> 
 🌱 Completed **CS61A**, where I learned the fundamentals of programming and abstraction, and currently working through **CS61B**, focusing on data structures and algorithms.  <br>
 💻 Learning the fundamentals of Web Development to understand how full-stack technologies integrate with data-driven applications.  <br>
