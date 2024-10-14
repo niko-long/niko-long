@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **xiaolong.song93@gmail.com**
 
-- ⚡ Fun fact **Life-long eater**
+- ⚡ Fun fact: dream job ----> **dog walker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
