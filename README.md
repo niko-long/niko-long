@@ -2,10 +2,7 @@
 <h3 align="center">A passionate student with a strong interest in Data Science, Computer Science, currently based in Belgium.</h3>  
 🤖 Continuously expanding my knowledge in Machine Learning, Deep Learning, MLOps, and actively exploring CS topics.<br> 
 🌱 Completed CS61A, where I learned the fundamentals of programming and abstraction, and currently working through CS61B, focusing on data structures and algorithms.<br>
-💻 Learning the fundamentals of Web Development to understand how full-stack technologies integrate with data-driven applications.<br>
 🔍 I enjoy solving real-world problems through data, algorithms, and web technologies, with a particular focus on the intersection of statistics, programming, and system design.<br>
-
-
 - 📫 How to reach me **xiaolong.song93@gmail.com**
 
 - ⚡ Fun fact: My dream job is to be a developer and a dog walker!
