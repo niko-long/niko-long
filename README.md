@@ -1,17 +1,64 @@
-<h1 align="center">Hi 👋, I'm Xiaolong Song</h1>
-<h3 align="center">A passionate student with a strong interest in Data Science, Computer Science, currently based in Belgium.</h3>  
-🤖 Continuously expanding my knowledge in Machine Learning, Deep Learning, MLOps, and actively exploring CS topics.<br> 
-🌱 Completed CS61A, where I learned the fundamentals of programming and abstraction, and currently working through CS61B, focusing on data structures and algorithms.<br>
-🔍 I enjoy solving real-world problems through data, algorithms, and web technologies, with a particular focus on the intersection of statistics, programming, and system design.<br>
-- 📫 How to reach me **xiaolong.song93@gmail.com**
+  # Xiaolong Song
 
-- ⚡ Fun fact: My dream job is to be a developer and a dog walker!
+  **Data Engineer / Analytics Engineer** — based in the Netherlands
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+  Currently on the Digital Innovation Team at Zehnder Group, building data
+  pipelines, internal AI tooling, and leading AI adoption training across
+  departments.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+  Dual Master's in Statistics & Data Science + Civil Engineering. Transitioned
+  from infrastructure engineering to data infrastructure.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niko-long&show_icons=true&locale=en" alt="niko-long" /></p>
+  ## What I work on
+
+  **Data Engineering**
+  - Designed and maintained automated ingestion pipelines for building permit
+  data from 6+ European sources (REST APIs, file downloads), with
+  transformation in Python/PySpark, storage in Azure SQL, and a Streamlit
+  front-end for stakeholder access.
+  - Migrated SAP procurement data pipelines from
+  QlikSense to PySpark on Microsoft Fabric, redesigning join logic and
+  incremental load strategy, with CI/CD via Azure DevOps.
+  - Built an event-driven Azure Function that monitors mailboxes via Microsoft
+  Graph API, extracts and validates CSV attachments, and loads them into the
+  data platform — replacing a manual upload workflow.
+
+  **AI & Automation**
+  - Exploring AI agent architectures for internal business process automation —
+  prototyping tool-use patterns, prompt engineering strategies, and integration
+  with existing data infrastructure.
+  - Developed and delivered hands-on training sessions on AI-assisted workflows
+  (Claude, ChatGPT, Microsoft Copilot) for non-technical colleagues, including
+  custom instruction design and accuracy validation techniques.
+
+  ## Selected Project
+
+  **NL Transport Pulse**
+  End-to-end Dutch transport reliability pipeline built as a portfolio data
+  engineering project.
+
+  - Designed a multimodal pipeline integrating NS rail disruption/departure
+  data and NDW road traffic data.
+  - Provisioned cloud infrastructure with Terraform on GCP, using GCS as the
+  raw data lake and BigQuery as the warehouse.
+  - Orchestrated ingestion workflows in Airflow and modeled downstream datasets
+  with dbt.
+  - Built the project to demonstrate practical data engineering concerns:
+  idempotent loads, partitioned raw ingestion, schema management, data quality
+  checks, and reproducible local setup with Docker.
+  - Focus area: connecting rail disruptions with nearby road traffic signals to
+  explore multimodal reliability patterns in the Netherlands.
+
+  ## Tech stack
+
+  ```text
+  Languages:      Python, SQL, Java, R
+  Data:           PySpark, Azure SQL, Microsoft Fabric, Delta Lake, BigQuery,
+  dbt
+  Cloud & Infra:  Azure Functions, Azure DevOps, Docker, Terraform, GCP
+  Tools:          Streamlit, Airflow, Git, Microsoft Graph API
+  Currently:      CS61B (Data Structures & Algorithms)
+
+  ## Contact
+
+  xiaolong.song93@gmail.com
