@@ -12,9 +12,9 @@
   ## What I work on
 
   **Data Engineering**
-  - Designed and maintained automated ingestion pipelines for building permit
+  - Designed and maintained automated ingestion pipelines
   data from 6+ European sources (REST APIs, file downloads), with
-  transformation in Python/PySpark, storage in Azure SQL, and a Streamlit
+  transformation in Python, storage in Azure SQL, and a Streamlit
   front-end for stakeholder access.
   - Migrated SAP procurement data pipelines from
   QlikSense to PySpark on Microsoft Fabric, redesigning join logic and
